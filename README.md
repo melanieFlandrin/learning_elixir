@@ -1,5 +1,10 @@
 # Learning Elixir
 
-## [01 Notes](https://github.com/melanieFlandrin/learning_elixir/tree/01-notes)
+## Projects - done in 2021
 
-## [02 Projects](https://github.com/melanieFlandrin/learning_elixir/tree/02-projects)
+### Phoenix LiveView:
+
+#### [Brightness gauge](https://github.com/melanieFlandrin/learning_phoenix_liveview_brightness_gauge)
+
+
+
